@@ -5,9 +5,6 @@ part1_generate_dataset.py
 Part 1: Generate Wireless Channel Dataset (Gauss–Markov Model)
 Saves the generated data to CSV files for later use.
 
-Run this first to create your dataset!
-
-Author: AI Assistant
 """
 
 import os
